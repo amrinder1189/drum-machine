@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
+https://nervous-feynman-00b467.netlify.app <br>
+Click the above link to enjoy the online Drum :^)
 
 ## Available Scripts
 
