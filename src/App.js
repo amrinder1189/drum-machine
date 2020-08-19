@@ -3,7 +3,7 @@ import './App.css';
 import { render } from '@testing-library/react';
 
 
-const keys=['Q', 'W', 'E', 'A', 'S', 'D', 'Z', 'X', 'C'];
+
 
 const sounds=[
 
@@ -108,7 +108,7 @@ class Box extends Component {
 document.addEventListener('keydown',(e) =>{
   const id= e.key.toUpperCase();
   const audio = document.getElementById(id);
-  const display = document.getElementById("display");
+
 
   if(audio){
   
